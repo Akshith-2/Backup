@@ -1,0 +1,7 @@
+%USERPROFILE%\AppData\Local\Microsoft\WindowsApps
+C:\Users\apoudal\AppData\Local\Programs\Git\cmd
+C:\Program Files\Zulu\zulu-17\bin
+C:\Users\apoudal\AppData\Roaming\npm
+C:\Users\apoudal\AppData\Roaming\npm\node_modules\@angular\cli\bin
+%PATH%;%SPARK_HOME%\bin;%JAVA_HOME%\bin
+%HADOOP_HOME%\bin
